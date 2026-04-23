@@ -15,3 +15,8 @@ Key areas I focused on:
 * How real-world landing pages are structured
 * Importance of writing clean and maintainable CSS
 * Fundamentals of responsive design and UI thinking
+
+## What Makes This Project Different
+- Built from scratch to understand fundamentals
+- Focused on layout accuracy and responsiveness
+- Emphasis on clean and readable code structure
