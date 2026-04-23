@@ -1,6 +1,7 @@
 ## My Approach (Built from Scratch)
 This project was built during my early learning phase, where I implemented everything step by step to understand core frontend concepts in depth.
 Key areas I focused on:
+
  1.Understanding layout systems using Flexbox and CSS Grid
  2.Writing semantic HTML for better structure and readability
  3.Implementing responsiveness using media queries
